@@ -15,8 +15,42 @@ public class Modalidade {
         membros = new ArrayList<>();
     }
     public boolean adicionarMembro(MembroComite membro){
-        membros.add(membro);
-        return true;
+        if(membros.size()<limiteMembros) {
+            membros.add(membro);
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+    public int contaAtletas(){
+        int contador=0;
+        for (MembroComite membro : membros){
+            if (membro instanceof Atleta){
+                contador++;
+            }
+        }
+        return contador;
+    }
+
+    public int contaTecnicos(){
+        int contador=0;
+        for (MembroComite membro : membros){
+            if (membro instanceof Tecnico){
+                contador++;
+            }
+        }
+        return contador;
+    }
+
+    public int contaProfSaude(){
+        int contador=0;
+        for (MembroComite membro : membros){
+            if (membro instanceof ProfSaude){
+                contador++;
+            }
+        }
+        return contador;
     }
 
     public int getLimiteMembros() {

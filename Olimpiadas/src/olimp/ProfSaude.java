@@ -9,7 +9,7 @@ public class ProfSaude extends MembroComite{
 
     @Override
     public String exibirDados() {
-        String retorno = ("Nome: " + nome + "\n" +
+        String retorno = ("Profissional da Saude:\n" + "Nome: " + nome + "\n" +
                 "Genero: " + genero + "\n" +
                 "Idade: " + idade + "\n" +
                 "Especialidade: " + especialidade + "\n");

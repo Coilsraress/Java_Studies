@@ -10,7 +10,7 @@ public class Tecnico extends MembroComite {
 
     @Override
     public String exibirDados() {
-        String retorno = ("Nome: " + nome + "\n" +
+        String retorno = ("Tecnico:\n" +"Nome: " + nome + "\n" +
                           "Genero: " + genero + "\n" +
                           "Idade: " + idade + "\n" +
                           "Atividade: " + atividade + "\n");
