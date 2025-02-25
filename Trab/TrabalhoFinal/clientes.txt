@@ -1,0 +1,32 @@
+Nome: João Silva, ID: 153, Filme Alugado: A Origem, Data de Devolução: 12/03/2025  
+Nome: Nikola Tesla, ID: 999, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Albert Einstein, ID: 234, Filme Alugado: Interestelar, Data de Devolução: 15/03/2025  
+Nome: Marie Curie, ID: 876, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Isaac Newton, ID: 543, Filme Alugado: Matrix, Data de Devolução: 18/03/2025  
+Nome: Galileu Galilei, ID: 321, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Charles Darwin, ID: 765, Filme Alugado: O Senhor dos Anéis, Data de Devolução: 20/03/2025  
+Nome: Ada Lovelace, ID: 908, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Carl Sagan, ID: 432, Filme Alugado: Vingadores: Ultimato, Data de Devolução: 22/03/2025  
+Nome: Stephen Hawking, ID: 678, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Alan Turing, ID: 987, Filme Alugado: Jurassic Park, Data de Devolução: 25/03/2025  
+Nome: Richard Feynman, ID: 112, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Leonardo da Vinci, ID: 654, Filme Alugado: Titanic, Data de Devolução: 28/03/2025  
+Nome: Johannes Kepler, ID: 342, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Thomas Edison, ID: 899, Filme Alugado: Toy Story, Data de Devolução: 01/04/2025  
+Nome: Niels Bohr, ID: 223, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Rosalind Franklin, ID: 556, Filme Alugado: Clube da Luta, Data de Devolução: 04/04/2025  
+Nome: James Clerk Maxwell, ID: 777, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Werner Heisenberg, ID: 189, Filme Alugado: O Iluminado, Data de Devolução: 07/04/2025  
+Nome: Erwin Schrödinger, ID: 910, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Max Planck, ID: 468, Filme Alugado: Gladiador, Data de Devolução: 10/04/2025  
+Nome: Dmitri Mendeleev, ID: 255, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Michael Faraday, ID: 731, Filme Alugado: Coringa, Data de Devolução: 13/04/2025  
+Nome: Gregor Mendel, ID: 614, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Enrico Fermi, ID: 858, Filme Alugado: De Volta para o Futuro, Data de Devolução: 16/04/2025  
+Nome: Paul Dirac, ID: 375, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Emmy Noether, ID: 492, Filme Alugado: O Lobo de Wall Street, Data de Devolução: 19/04/2025  
+Nome: Claude Shannon, ID: 529, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Hermann von Helmholtz, ID: 647, Filme Alugado: Os Incríveis, Data de Devolução: 22/04/2025  
+Nome: Pierre-Simon Laplace, ID: 784, Filme Alugado: Nenhum, Data de Devolução: Nenhum  
+Nome: Louis Pasteur, ID: 311, Filme Alugado: Mad Max: Estrada da Fúria, Data de Devolução: 25/04/2025  
+Nome: John von Neumann, ID: 999, Filme Alugado: Nenhum, Data de Devolução: Nenhum  

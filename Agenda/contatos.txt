@@ -1,0 +1,20 @@
+Nome: Mariana
+Telefone: (21) 91234-5678
+Endereço: Avenida Atlântica, 456 - Rio de Janeiro, RJ
+Email: mariana@email.com
+Nome: Ana
+Telefone: (47) 98234-1122
+Endereço: Rua das Palmeiras, 55 - Florianópolis, SC
+Email: ana@email.com
+Nome: Lucas
+Telefone: (31) 97545-8454
+Endereço: Rua 12 - 55 - Ipiranga , MG
+Email: lucas@gmail.com
+Nome: Pedro
+Telefone: (31) 98547-6325
+Endereço: Rua das Pedras - 55 - Uberlandia, MG
+Email: pedro@gmail.com
+Nome: Henrique
+Telefone: (31) 94002-8922
+Endereço: Rua ipiranga - 57 - Oliveira, MG
+Email: henrique@gmail.com

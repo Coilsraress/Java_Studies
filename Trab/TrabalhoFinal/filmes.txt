@@ -1,0 +1,30 @@
+Nome: A Origem, Gênero: Ficção Científica, Lançamento: 2010, Unidades: 13, Sinopse: Um ladrão invade sonhos para roubar segredos.  
+Nome: Interestelar, Gênero: Ficção Científica, Lançamento: 2014, Unidades: 9, Sinopse: Exploradores viajam pelo espaço para salvar a humanidade.  
+Nome: Matrix, Gênero: Ação, Lançamento: 1999, Unidades: 18, Sinopse: Um hacker descobre que o mundo é uma simulação.  
+Nome: O Senhor dos Anéis, Gênero: Fantasia, Lançamento: 2001, Unidades: 10, Sinopse: Um grupo deve destruir um anel maligno.  
+Nome: Vingadores, Gênero: Ação, Lançamento: 2019, Unidades: 20, Sinopse: Heróis tentam reverter o estalo de Thanos.  
+Nome: Jurassic Park, Gênero: Aventura, Lançamento: 1993, Unidades: 14, Sinopse: Cientistas recriam dinossauros em um parque temático.  
+Nome: Titanic, Gênero: Romance, Lançamento: 1997, Unidades: 12, Sinopse: Um casal vive um amor proibido a bordo do Titanic.  
+Nome: Toy Story, Gênero: Animação, Lançamento: 1995, Unidades: 8, Sinopse: Brinquedos ganham vida quando ninguém está olhando.  
+Nome: Clube da Luta, Gênero: Drama, Lançamento: 1999, Unidades: 10, Sinopse: Um homem cria um clube secreto de lutas.  
+Nome: O Iluminado, Gênero: Terror, Lançamento: 1980, Unidades: 9, Sinopse: Um escritor enlouquece em um hotel isolado.  
+Nome: Gladiador, Gênero: Ação, Lançamento: 2000, Unidades: 11, Sinopse: Um general romano busca vingança no Coliseu.  
+Nome: Coringa, Gênero: Drama, Lançamento: 2019, Unidades: 13, Sinopse: Um comediante falido se torna um criminoso em Gotham.  
+Nome: De Volta para o Futuro, Gênero: Ficção Científica, Lançamento: 1985, Unidades: 10, Sinopse: Um jovem viaja no tempo usando um carro modificado.  
+Nome: O Lobo de Wall Street, Gênero: Comédia, Lançamento: 2013, Unidades: 9, Sinopse: Um corretor de ações vive uma vida de excessos.  
+Nome: Os Incríveis, Gênero: Animação, Lançamento: 2004, Unidades: 7, Sinopse: Uma família de super-heróis tenta viver no anonimato.  
+Nome: Mad Max, Gênero: Ação, Lançamento: 2015, Unidades: 8, Sinopse: Sobreviventes lutam por recursos em um deserto pós-apocalíptico.  
+Nome: O Rei Leão, Gênero: Animação, Lançamento: 1994, Unidades: 10, Sinopse: Um jovem leão luta para recuperar seu trono.  
+Nome: Procurando Nemo, Gênero: Animação, Lançamento: 2003, Unidades: 10, Sinopse: Um peixe-palhaço atravessa o oceano para encontrar seu filho.  
+Nome: Pantera Negra, Gênero: Ação, Lançamento: 2018, Unidades: 15, Sinopse: O rei de Wakanda luta para proteger seu país.  
+Nome: A Bela e a Fera, Gênero: Romance, Lançamento: 1991, Unidades: 10, Sinopse: Uma jovem se apaixona por uma criatura encantada.  
+Nome: O Poderoso Chefão, Gênero: Drama, Lançamento: 1972, Unidades: 12, Sinopse: A história de uma poderosa família da máfia.  
+Nome: Esquadrão Suicida, Gênero: Ação, Lançamento: 2016, Unidades: 9, Sinopse: Vilões são recrutados para missões secretas do governo.  
+Nome: Deadpool, Gênero: Comédia, Lançamento: 2016, Unidades: 12, Sinopse: Um anti-herói sarcástico busca vingança.  
+Nome: O Sexto Sentido, Gênero: Suspense, Lançamento: 1999, Unidades: 11, Sinopse: Um garoto vê pessoas mortas e pede ajuda a um psicólogo.  
+Nome: Shrek, Gênero: Comédia, Lançamento: 2001, Unidades: 8, Sinopse: Um ogro resgata uma princesa para recuperar sua terra.  
+Nome: Forrest Gump, Gênero: Drama, Lançamento: 1994, Unidades: 10, Sinopse: Um homem simples testemunha momentos históricos dos EUA.  
+Nome: Homem-Aranha, Gênero: Ação, Lançamento: 2002, Unidades: 14, Sinopse: Um jovem ganha poderes aracnídeos e se torna um herói.  
+Nome: O Exterminador do Futuro, Gênero: Ficção Científica, Lançamento: 1984, Unidades: 11, Sinopse: Um ciborgue do futuro volta no tempo para matar um líder da resistência.  
+Nome: Bastardos Inglórios, Gênero: Guerra, Lançamento: 2009, Unidades: 9, Sinopse: Soldados judeus caçam nazistas na Segunda Guerra Mundial.  
+Nome: Coco, Gênero: Animação, Lançamento: 2017, Unidades: 10, Sinopse: Um garoto viaja para o mundo dos mortos em busca de sua origem.  
